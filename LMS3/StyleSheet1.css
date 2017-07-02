@@ -1,0 +1,28 @@
+﻿/*<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+h1
+{
+    font-family: 'Montserrat', Sans-Serif;
+    color: White;
+}*/
+
+body {
+    background: url(Images/lbms.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.button 
+{
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    border: 3px solid #009688;
+    background-color: white;
+    margin-left: 0px;
+}
+
+.button:hover 
+{
+    background-color: #009688;
+    color: white;
+}
+

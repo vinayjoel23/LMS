@@ -1,0 +1,4 @@
+c:\users\vinay joel\documents\visual studio 2010\Projects\LMS3\LMS3\bin\LMS3.dll
+c:\users\vinay joel\documents\visual studio 2010\Projects\LMS3\LMS3\bin\LMS3.pdb
+c:\users\vinay joel\documents\visual studio 2010\Projects\LMS3\LMS3\obj\Debug\LMS3.dll
+c:\users\vinay joel\documents\visual studio 2010\Projects\LMS3\LMS3\obj\Debug\LMS3.pdb
